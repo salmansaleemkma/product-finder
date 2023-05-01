@@ -1,6 +1,18 @@
 {
+  "name": "product-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:salmansaleemkma/product-finder.git"
+  },
+  "author": "Salman Saleem K M A",
+  "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2",
-    "xlsx": "https://cdn.sheetjs.com/xlsx-latest/xlsx-latest.tgz"
+    "xlsx": "^0.18.5"
   }
 }
